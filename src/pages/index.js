@@ -27,7 +27,7 @@ export default function Home() {
     isMobile ? (
       <div className="flex items-center justify-center mx-4 h-screen">
       <div className="bg-red-500 text-white p-4 rounded-lg">
-      We're working on our mobile version. Stay tuned for updates!
+      We&apos;re working on our mobile version. Stay tuned for updates!
       </div>
     </div>
     
@@ -54,7 +54,7 @@ export default function Home() {
       </div>
     </Layout>
     <div className="absolute right-8 bottom-8 inline-block w-48">
-      <Image src={globe} className="w-full h-full"/>
+      <Image src={globe} className="w-full h-full" alt="globe"/>
     </div>
     </main>
     )

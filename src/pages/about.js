@@ -24,7 +24,7 @@ const about = () => {
                 <p className='my-4 font-medium'>   From conceptualization to execution,  I relish the opportunity to engage with each phase, weaving together frontend aesthetics with backend functionality to craft seamless solutions. 
                 </p>
 
-                <p className='my-4 font-medium'>Fullstack development is not merely a profession; it's a philosophy—a commitment to excellence that propels me to explore the depths of design and the intricacies of code.</p> 
+                <p className='my-4 font-medium'>Fullstack development is not merely a profession. Its a philosophy—a commitment to excellence that propels me to explore the depths of design and the intricacies of code.</p> 
                 <p className='font-medium'> With each project, I am reminded of the power of fullstack fusion, where creativity and technical prowess converge to breathe life into ideas and elevate them into fully-realized digital realities </p>
                 
             </div>

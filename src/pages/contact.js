@@ -2,8 +2,7 @@ import React, { useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 import emailjs from '@emailjs/browser'
 import Head from 'next/head';
-const contact = () => {
-  const text = "Get in Touch!"
+const Contact = () => {
   const [success,setSuccess] = useState(false)
   const [error, seterror] = useState(false)
   const form = useRef()
@@ -83,4 +82,4 @@ const contact = () => {
   )
 
 }
-export default contact
+export default Contact
